@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim El Aoumari</h1>
-<h3 align="center">I am a dedicated software development student with a strong focus on Salesforce CRM. I use a creative approach to problem solve. with some Google search</h3>
+<h3 align="center">I am a dedicated software development student with a strong focus on Salesforce & ServiceNow. I use a creative approach to problem solve. with some Google search</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim-elaoumari" alt="karim-elaoumari" /></a> </p>
 
